@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
-  <img align="right" alt="img" height="250" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"/>          
+  <img align="right" alt="img" height="150" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"/>          
 </div>
 
 ## Contatos
