@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
-  <img align="right" alt="img" height="250" src="https://gifs.eco.br/animados-gifs-do-roronoa-zoro-de-one-piece.gif/"/>          
+  <img align="right" alt="img" height="250" src="https://i.pinimg.com/originals/20/56/be/2056be747301d7436694ac232815c835.gif"/>          
 </div>
 
 ## Contatos
